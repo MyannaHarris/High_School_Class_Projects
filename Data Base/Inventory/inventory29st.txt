@@ -1,0 +1,31 @@
+Monitor
+1234567
+5
+Keyboard
+7654321
+20
+CPUs
+1123422
+30
+RAM
+2534533
+22
+Mouse
+3345345
+1
+Tower
+4464564
+32
+Webcam
+5456756
+9
+Speakers
+2696067
+10
+IP Phone
+3523467
+6
+Video Cards
+0702345
+13
+

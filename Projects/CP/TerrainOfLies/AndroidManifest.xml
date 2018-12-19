@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.terrainoflies"
+    android:versionCode="1"
+    android:versionName="1.0"
+    android:installLocation="preferExternal" >
+    
+    <!--Program Identification
+	Name: myanna harris
+	Class: xml
+	Date: 5-22-13
+	File Location: C:\Users\ke.myanna.harris\Dropbox\CP
+	***********************************************
+	
+	***********************************************
+	Program Abstract
+	defines app settings
+	connects other activities to main class
+	***********************************************
+	
+	***********************************************
+	Terrain Of Lies Manifest-->
+
+    <uses-sdk
+        android:minSdkVersion="4"
+        android:targetSdkVersion="17" />
+    
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.terrainoflies.MainActivity"
+            android:label="@string/app_name" >
+            android:screenOrientation="landscape"
+            android:configChanges="keyboard|keyboardHidden|orientation" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:label="Play"
+            android:name=".Play"
+            android:configChanges="keyboard|keyboardHidden|orientation" />
+        <activity
+            android:label="Highscores"
+            android:name=".Highscores"
+            android:configChanges="keyboard|keyboardHidden|orientation" />
+        <activity
+            android:label="Help"
+            android:name=".Help"
+            android:configChanges="keyboard|keyboardHidden|orientation" />
+    </application>
+
+</manifest>

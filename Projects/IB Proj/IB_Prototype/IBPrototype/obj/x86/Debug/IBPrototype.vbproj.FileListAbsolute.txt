@@ -1,0 +1,11 @@
+\\ke.ksd.edu\student$\13\KE.Myanna.Harris\My Documents\IB\IBPrototype\IBPrototype\bin\Debug\IBPrototype.exe
+\\ke.ksd.edu\student$\13\KE.Myanna.Harris\My Documents\IB\IBPrototype\IBPrototype\bin\Debug\IBPrototype.pdb
+\\ke.ksd.edu\student$\13\KE.Myanna.Harris\My Documents\IB\IBPrototype\IBPrototype\bin\Debug\IBPrototype.xml
+\\ke.ksd.edu\student$\13\KE.Myanna.Harris\My Documents\IB\IBPrototype\IBPrototype\obj\x86\Debug\ResolveAssemblyReference.cache
+\\ke.ksd.edu\student$\13\KE.Myanna.Harris\My Documents\IB\IBPrototype\IBPrototype\obj\x86\Debug\IBPrototype.Form1.resources
+\\ke.ksd.edu\student$\13\KE.Myanna.Harris\My Documents\IB\IBPrototype\IBPrototype\obj\x86\Debug\IBPrototype.Resources.resources
+\\ke.ksd.edu\student$\13\KE.Myanna.Harris\My Documents\IB\IBPrototype\IBPrototype\obj\x86\Debug\GenerateResource.read.1.tlog
+\\ke.ksd.edu\student$\13\KE.Myanna.Harris\My Documents\IB\IBPrototype\IBPrototype\obj\x86\Debug\GenerateResource.write.1.tlog
+\\ke.ksd.edu\student$\13\KE.Myanna.Harris\My Documents\IB\IBPrototype\IBPrototype\obj\x86\Debug\IBPrototype.exe
+\\ke.ksd.edu\student$\13\KE.Myanna.Harris\My Documents\IB\IBPrototype\IBPrototype\obj\x86\Debug\IBPrototype.xml
+\\ke.ksd.edu\student$\13\KE.Myanna.Harris\My Documents\IB\IBPrototype\IBPrototype\obj\x86\Debug\IBPrototype.pdb
